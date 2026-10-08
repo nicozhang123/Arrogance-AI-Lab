@@ -1,23 +1,15 @@
 # arrogance.ai · 第一代 AI 协作平台
 
+<img width="1080" height="675" alt="image" src="https://github.com/user-attachments/assets/98a2c8dc-0a21-43b9-aabc-072f8480c073" />
+
 从知识问答到任务执行，从个人创作到团队交付。
 
 arrogance.ai 是基于 **React + FastAPI** 的 AI 工作空间，将知识库、通用聊天、超级任务、六种工具和团队协作放在同一个应用中。第一代的重点是让需求、计划、审批、执行结果和项目记忆能够相互衔接。
 
-![第一代平台能力与团队交付闭环](docs/images/gen1/platform-overview.svg)
+<img width="300" height="136" alt="image" src="https://github.com/user-attachments/assets/af51e606-aa82-4f10-8391-fe64b2492c61" />
+
 
 > 第一代代码快照，整理日期：2026-10-08。配图来自项目已有的本地界面验证，使用演示数据；不是设计稿，也不代表外部模型已经在你的环境中完成联调。第一代不等同于经过生产认证的正式发布。
-<img width="1632" height="1062" alt="image" src="https://github.com/user-attachments/assets/1599d7a8-0226-43c2-b0d9-7545a2d1dec7" />
-> <img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/5df3663e-5599-43da-af79-ee32175bd9b2" />
-<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/1e8e6453-39f3-4cbb-a725-f4b86abc90c1" />
-<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/1c8ce9fb-5f0c-42ba-8bd2-bedcff4bb12a" />
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8924517a-b70e-4ce9-b774-3a750ec8d063" />
-<img width="1537" height="1008" alt="image" src="https://github.com/user-attachments/assets/48b30db9-dac0-47be-9375-cbe3bdde0991" />
-
-
-
-
-
 
 **快速导航：** [平台能力](#平台能力) · [界面预览](#界面预览) · [快速开始](#快速开始) · [配置说明](#配置说明) · [使用流程](#使用流程) · [技术架构](#技术架构) · [验证与边界](#验证与边界) · [开发文档](#开发文档)
 
@@ -55,7 +47,8 @@ arrogance.ai 是基于 **React + FastAPI** 的 AI 工作空间，将知识库、
 
 执行结果不仅是一段聊天文字。已保存的 HTML 报告可在页面内隔离预览，JSON 统计可直接查看，产物可下载并回到团队项目工作台。
 
-![超级任务的报告预览、执行计划和最终交付](docs/images/gen1/agent-delivery.png)
+<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/96c8e36b-77d6-4b29-ba9c-c85da43416f3" />
+
 
 *演示数据生成的已保存报告；“本地技术校验通过”不表示所有业务结论已经人工验收。*
 
@@ -63,7 +56,8 @@ arrogance.ai 是基于 **React + FastAPI** 的 AI 工作空间，将知识库、
 
 筛选同时更新指标、图表、字段画像、分页明细与 CSV 导出，而不是只改变预览表格。质量规则、清洗、多表关联和追问在同一数据版本上继续工作。
 
-![数据分析全量筛选与 BI 指标图表联动](docs/images/gen1/bi-dashboard.png)
+<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/03b70333-ab12-4e5d-982f-46727cb8ad4d" />
+
 
 *英文界面示例：120 行演示数据筛选为 21 行，指标与分类图使用相同结果。*
 
@@ -71,15 +65,15 @@ arrogance.ai 是基于 **React + FastAPI** 的 AI 工作空间，将知识库、
 
 成员提出决策或规则，项目经理 / 管理员确认后才供群聊 AI 和已审批团队任务引用。纠正需要重新确认，撤销停止新引用，旧版本保留审计记录。
 
-![团队项目记忆的待确认、已确认、撤销与修订操作](docs/images/gen1/project-memory.png)
+<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/6cff241f-3295-44a6-b3a0-b02ec8aa8eb7" />
+
 
 ### AI 语音：从场景选择到实时通话
 
 先选择自由对话、面试练习或情感陪伴，再配置语音体验和音色。通话中以数字人、聆听状态和稳定的控制区为中心，模型状态作为次要信息查看。
 
-![AI 语音空间首页与场景选择](docs/images/gen1/voice-home.png)
+<img width="1339" height="922" alt="image" src="https://github.com/user-attachments/assets/6251667c-6890-49bf-9c28-328d0babe4f3" />
 
-![AI 语音通话中的数字人、音量和挂断控制](docs/images/gen1/voice-live.png)
 
 *通话状态为本地界面验证示例，不是供应商实时性能承诺。数字人嘴型依据音频强度驱动，并非音素级精准口型合成。*
 
@@ -87,19 +81,8 @@ arrogance.ai 是基于 **React + FastAPI** 的 AI 工作空间，将知识库、
 
 保存的工作流可由超级任务获批、交付或失败事件启动。执行记录展示真实节点进度、输入输出、耗时与错误，并提供停止、重试入口。
 
-![工作流事件自动化与节点执行记录](docs/images/gen1/workflow-automation.png)
+<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/7bfd7078-7349-45ff-952d-4648cb1490dd" />
 
-### 手机端
-
-下面展示 390px 宽度的 BI 页面与项目记忆。群聊手机端使用频道顶栏、消息区、底部输入框以及抽屉 / 全屏项目面板。
-
-<table>
-  <tr><th>数据分析</th><th>项目记忆</th></tr>
-  <tr>
-    <td><img src="docs/images/gen1/mobile-bi.png" width="280" alt="390px 手机端数据分析与全量筛选" /></td>
-    <td><img src="docs/images/gen1/mobile-project-memory.png" width="280" alt="390px 手机端团队项目记忆" /></td>
-  </tr>
-</table>
 
 ## 快速开始
 
