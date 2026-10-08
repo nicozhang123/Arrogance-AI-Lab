@@ -7,6 +7,17 @@ arrogance.ai 是基于 **React + FastAPI** 的 AI 工作空间，将知识库、
 ![第一代平台能力与团队交付闭环](docs/images/gen1/platform-overview.svg)
 
 > 第一代代码快照，整理日期：2026-10-08。配图来自项目已有的本地界面验证，使用演示数据；不是设计稿，也不代表外部模型已经在你的环境中完成联调。第一代不等同于经过生产认证的正式发布。
+<img width="1632" height="1062" alt="image" src="https://github.com/user-attachments/assets/1599d7a8-0226-43c2-b0d9-7545a2d1dec7" />
+> <img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/5df3663e-5599-43da-af79-ee32175bd9b2" />
+<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/1e8e6453-39f3-4cbb-a725-f4b86abc90c1" />
+<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/1c8ce9fb-5f0c-42ba-8bd2-bedcff4bb12a" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8924517a-b70e-4ce9-b774-3a750ec8d063" />
+<img width="1537" height="1008" alt="image" src="https://github.com/user-attachments/assets/48b30db9-dac0-47be-9375-cbe3bdde0991" />
+
+
+
+
+
 
 **快速导航：** [平台能力](#平台能力) · [界面预览](#界面预览) · [快速开始](#快速开始) · [配置说明](#配置说明) · [使用流程](#使用流程) · [技术架构](#技术架构) · [验证与边界](#验证与边界) · [开发文档](#开发文档)
 
