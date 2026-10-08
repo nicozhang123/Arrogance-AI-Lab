@@ -1,6 +1,6 @@
 # arrogance.ai · 第一代 AI 协作平台
 
-<gif width="1080" height="675" alt="image" src="https://github.com/user-attachments/assets/98a2c8dc-0a21-43b9-aabc-072f8480c073" />
+![登录页动态展示](https://github.com/user-attachments/assets/98a2c8dc-0a21-43b9-aabc-072f8480c073)
 
 从知识问答到任务执行，从个人创作到团队交付。
 
