@@ -73,7 +73,9 @@ arrogance.ai 是基于 **React + FastAPI** 的 AI 工作空间，将知识库、
 
 先选择自由对话、面试练习或情感陪伴，再配置语音体验和音色。通话中以数字人、聆听状态和稳定的控制区为中心，模型状态作为次要信息查看。
 
-<img width="1339" height="922" alt="image" src="https://github.com/user-attachments/assets/6251667c-6890-49bf-9c28-328d0babe4f3" />
+<img width="1453" height="1068" alt="image" src="https://github.com/user-attachments/assets/3318f7dc-d55e-4bc7-a0a2-c57cdc2797ee" />
+<img width="1341" height="1008" alt="image" src="https://github.com/user-attachments/assets/4b0857d2-98c4-4c7c-85a3-56b15b586f68" />
+<img width="1226" height="971" alt="image" src="https://github.com/user-attachments/assets/f0dd407a-3f8a-4b3c-bea7-0634b975aeaa" />
 
 
 *通话状态为本地界面验证示例，不是供应商实时性能承诺。数字人嘴型依据音频强度驱动，并非音素级精准口型合成。*
