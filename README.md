@@ -291,13 +291,7 @@ Keep execution progress, saved HTML reports, JSON data, and downloads in one pla
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>04 / Workflow Automation</h3>
-      <a href="https://github.com/user-attachments/assets/7bfd7078-7349-45ff-952d-4648cb1490dd"></a>
-      <p><strong>Let task events start the next workflow.</strong> Trigger saved workflows when a Super Task is approved, delivered, or fails. Inspect node progress, inputs, outputs, elapsed time, and errors, with controls to stop or retry.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>05 / AI Voice</h3>
+      <h3>04 / AI Voice</h3>
       <a href="https://github.com/user-attachments/assets/3318f7dc-d55e-4bc7-a0a2-c57cdc2797ee"></a>
       <p><strong>Choose a scenario. Start a conversation.</strong> Explore open chat, interview practice, or emotional companionship, then configure Aria / Omni and voice options.</p>
     </td>
