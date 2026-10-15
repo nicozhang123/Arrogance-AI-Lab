@@ -142,7 +142,7 @@ A frontend build is not a complete production deployment. Configure HTTPS, secre
 ## ✨ One workspace. Connected ways to work.
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/3a1f2727-56b2-4162-bd49-11fc549cfb73"><img src="https://github.com/user-attachments/assets/3a1f2727-56b2-4162-bd49-11fc549cfb73" alt="arrogance.ai workspace overview" width="100%" /></a>
+  <a href="https://github.com/user-attachments/assets/3a1f2727-56b2-4162-bd49-11fc549cfb73"></a>
 </p>
 
 <table>
@@ -150,12 +150,12 @@ A frontend build is not a complete production deployment. Configure HTTPS, secre
     <td width="50%" valign="top">
       <h3>🧠 Ask your knowledge</h3>
       <p>Turn PDF, DOCX, TXT, and Markdown files into a searchable knowledge base. Combine vector and keyword retrieval, semantic reranking, evidence citations, and optional knowledge graph enrichment.</p>
-      <a href="https://github.com/user-attachments/assets/66cf943a-fd3e-4fe5-8fe3-cc86a08e0618"><img src="https://github.com/user-attachments/assets/66cf943a-fd3e-4fe5-8fe3-cc86a08e0618" alt="Knowledge Agent interface" width="100%" /></a>
+      <a href="https://github.com/user-attachments/assets/66cf943a-fd3e-4fe5-8fe3-cc86a08e0618"></a>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Turn goals into deliverables</h3>
       <p>Break work into steps, set budgets, request optional team approval, and pause or retry execution. Keep saved results and previewable or downloadable HTML / JSON artifacts together.</p>
-      <a href="https://github.com/user-attachments/assets/e146bbdf-ba67-4da7-9e06-a9b52b7d5ab8"><img src="https://github.com/user-attachments/assets/e146bbdf-ba67-4da7-9e06-a9b52b7d5ab8" alt="Super Tasks planning and execution interface" width="100%" /></a>
+      <a href="https://github.com/user-attachments/assets/e146bbdf-ba67-4da7-9e06-a9b52b7d5ab8"></a>
     </td>
   </tr>
   <tr>
@@ -173,7 +173,7 @@ A frontend build is not a complete production deployment. Configure HTTPS, secre
 ### From conversation to execution
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/72cc5420-e269-4158-9828-1a19f3b76f3c"><img src="https://github.com/user-attachments/assets/72cc5420-e269-4158-9828-1a19f3b76f3c" alt="Team task workflow overview" width="100%" /></a>
+  <a href="https://github.com/user-attachments/assets/72cc5420-e269-4158-9828-1a19f3b76f3c"></a>
 </p>
 
 > A typical team-task flow, not an automatic pipeline for every message. **Approvals are optional**, and ordinary chat messages do not automatically become persistent project memory.
@@ -208,31 +208,31 @@ A frontend build is not a complete production deployment. Configure HTTPS, secre
   <tr>
     <td width="50%" valign="top">
       <h3>🎬 AI Video</h3>
-      <a href="https://github.com/user-attachments/assets/23f5e9c0-5252-42eb-b41d-604ee2a43349"><img src="https://github.com/user-attachments/assets/23f5e9c0-5252-42eb-b41d-604ee2a43349" alt="AI Video workspace" width="100%" /></a>
+      <a href="https://github.com/user-attachments/assets/23f5e9c0-5252-42eb-b41d-604ee2a43349"></a>
     </td>
     <td width="50%" valign="top">
       <h3>🖼️ AI Image Studio</h3>
-      <a href="https://github.com/user-attachments/assets/405642e1-280c-4a4f-b9ee-d2cd9d2c8c98"><img src="https://github.com/user-attachments/assets/405642e1-280c-4a4f-b9ee-d2cd9d2c8c98" alt="AI Image Studio workspace" width="100%" /></a>
+      <a href="https://github.com/user-attachments/assets/405642e1-280c-4a4f-b9ee-d2cd9d2c8c98"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📊 AI Data Analysis</h3>
-      <a href="https://github.com/user-attachments/assets/d8895b50-f0a9-4b39-8ba4-e2d90933d54b"><img src="https://github.com/user-attachments/assets/d8895b50-f0a9-4b39-8ba4-e2d90933d54b" alt="AI Data Analysis workspace" width="100%" /></a>
+      <a href="https://github.com/user-attachments/assets/d8895b50-f0a9-4b39-8ba4-e2d90933d54b"></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏷️ AI Data Annotation</h3>
-      <a href="https://github.com/user-attachments/assets/9480a85c-bc46-4981-b8ba-a0c11f7ae65f"><img src="https://github.com/user-attachments/assets/9480a85c-bc46-4981-b8ba-a0c11f7ae65f" alt="AI Data Annotation workspace" width="100%" /></a>
+      <a href="https://github.com/user-attachments/assets/9480a85c-bc46-4981-b8ba-a0c11f7ae65f"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎙️ AI Voice</h3>
-      <a href="https://github.com/user-attachments/assets/5927ccb3-2598-4040-882e-d5f417d3505e"><img src="https://github.com/user-attachments/assets/5927ccb3-2598-4040-882e-d5f417d3505e" alt="AI Voice workspace" width="100%" /></a>
+      <a href="https://github.com/user-attachments/assets/5927ccb3-2598-4040-882e-d5f417d3505e"></a>
     </td>
     <td width="50%" valign="top">
       <h3>🕸️ AI Workflow</h3>
-      <a href="https://github.com/user-attachments/assets/4b3f10ae-6131-40a7-b5d3-b17e8dcfef60"><img src="https://github.com/user-attachments/assets/4b3f10ae-6131-40a7-b5d3-b17e8dcfef60" alt="AI Workflow workspace" width="100%" /></a>
+      <a href="https://github.com/user-attachments/assets/4b3f10ae-6131-40a7-b5d3-b17e8dcfef60"></a>
     </td>
   </tr>
 </table>
