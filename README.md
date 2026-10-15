@@ -1,7 +1,6 @@
-<a id="top"></a>
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/58111e17-9f05-449e-baa0-503b136a3688" alt="arrogance.ai — AI Collaboration Workspace" width="100%" />
+  <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/2c1ac3e8-ea24-4d76-b2c9-f3bbc563b2bc" />
+
 
   <br /><br />
 
@@ -24,6 +23,7 @@
   <p>Bring conversations, knowledge, creative work, and team decisions into one connected AI workspace.<br />Plan the work, review the steps, and keep results alongside the context that shaped them.</p>
 
   <br />
+<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/433384a6-bc1e-46af-91b8-4ac9ce40c151" />
 
   <a href="#start"><img alt="Get Started" src="https://img.shields.io/badge/GET_STARTED-LOCAL_SETUP-4064D8?style=for-the-badge" /></a>
   <a href="#showcase"><img alt="Product Showcase" src="https://img.shields.io/badge/PRODUCT-SHOWCASE-1F8B9F?style=for-the-badge" /></a>
@@ -196,10 +196,24 @@ A frontend build is not a complete production deployment. Configure HTTPS, secre
 | Tool | Capabilities | Requirements & current scope |
 | :-- | :-- | :-- |
 | **🎬 AI Video** | Seedance video generation from text or reference images, task status tracking, and a gallery of generated work. | Requires a Volcano Ark account with access to the selected model and a backend API key. |
+<img width="1662" height="1053" alt="屏幕截图 2026-10-15 161338" src="https://github.com/user-attachments/assets/dbf8ab79-f101-4733-af3c-b20069ff7efa" />
+
 | **🖼️ AI Image Studio** | Qwen image generation, local editing, precise cropping, color adjustments, design presets, and multi-size ZIP exports. | Local edits do not call a model. Generation requires Qwen configuration. |
+<img width="1668" height="1052" alt="屏幕截图 2026-10-15 161723" src="https://github.com/user-attachments/assets/5575ea88-3526-42ef-aadd-3cd1b9d9a144" />
+
 | **📊 AI Data Analysis** | Linked full-dataset filters, BI charts, field profiling, quality rules, cleaned data versions, joins, follow-up questions, and CSV / PDF exports. | Statistics and processing are deterministic and local by default. AI interpretation is optional. |
+<img width="1668" height="1045" alt="屏幕截图 2026-10-15 161851" src="https://github.com/user-attachments/assets/cb791a40-9a7f-49c5-9cb6-0c90425c1a42" />
+
+
 | **🏷️ AI Data Annotation** | Single-image, batch, and ZIP imports; object-detection pre-annotation; confidence filtering; class correction; false-label removal; JSON / YOLO exports. | Uses `hustvl/yolos-tiny` by default. This is not an integrated YOLO model-training framework. |
+<img width="1670" height="1052" alt="屏幕截图 2026-10-15 161946" src="https://github.com/user-attachments/assets/b8b4c9d5-dd47-40b4-976d-32faf4249036" />
+
+
+
 | **🎙️ AI Voice** | Open conversation, interview practice, emotional companionship, Aria / Omni experiences, voice and volume options, call content, and digital avatars. | Depends on Agora / Qwen Omni and browser microphone permission. |
+<img width="1676" height="1055" alt="屏幕截图 2026-10-15 162036" src="https://github.com/user-attachments/assets/16c77432-164a-43fe-b9ef-20911537487f" />
+<img width="1679" height="1055" alt="屏幕截图 2026-10-15 162054" src="https://github.com/user-attachments/assets/e11f6fe8-c757-4bc2-8f22-f4948dab1899" />
+
 | **🕸️ AI Workflow** | A drag-and-drop canvas, connected nodes, configuration, saved workflows, a dashboard, execution history, and Super Task event triggers. | Reuses configured models, knowledge retrieval, and built-in text tools. It is not a complete Dify replacement. |
 
 ### Inside the toolkit
@@ -258,7 +272,7 @@ User input, model-generated content, and raw third-party errors are not automati
 Keep execution progress, saved HTML reports, JSON data, and downloads in one place. Team deliverables can return to the project workspace for review and follow-up.
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/96c8e36b-77d6-4b29-ba9c-c85da43416f3"><img src="https://github.com/user-attachments/assets/96c8e36b-77d6-4b29-ba9c-c85da43416f3" alt="Super Tasks saved results and report preview" width="100%" /></a>
+  <a href="https://github.com/user-attachments/assets/96c8e36b-77d6-4b29-ba9c-c85da43416f3"></a>
 </p>
 
 <p align="center"><sub>HTML report generated from demonstration data. Technical validation does not establish that every business conclusion has been manually reviewed.</sub></p>
@@ -267,24 +281,24 @@ Keep execution progress, saved HTML reports, JSON data, and downloads in one pla
   <tr>
     <td width="50%" valign="top">
       <h3>02 / Data Workspace</h3>
-      <a href="https://github.com/user-attachments/assets/03b70333-ab12-4e5d-982f-46727cb8ad4d"><img src="https://github.com/user-attachments/assets/03b70333-ab12-4e5d-982f-46727cb8ad4d" alt="BI data workspace with synchronized filters" width="100%" /></a>
+      <a href="https://github.com/user-attachments/assets/03b70333-ab12-4e5d-982f-46727cb8ad4d"></a>
       <p><strong>One filter. A consistent data view.</strong> Metrics, charts, field profiles, paginated tables, and CSV exports update together. Quality checks, cleaning, joins, and follow-up questions use consistent data versions. Demo example: <strong>120 → 21 rows</strong>.</p>
     </td>
     <td width="50%" valign="top">
       <h3>03 / Project Memory</h3>
-      <a href="https://github.com/user-attachments/assets/6cff241f-3295-44a6-b3a0-b02ec8aa8eb7"><img src="https://github.com/user-attachments/assets/6cff241f-3295-44a6-b3a0-b02ec8aa8eb7" alt="Project memory review and approval" width="100%" /></a>
+      <a href="https://github.com/user-attachments/assets/6cff241f-3295-44a6-b3a0-b02ec8aa8eb7"></a>
       <p><strong>Confirm first. Reference later.</strong> AI can use team decisions and rules only after a project manager or administrator approves them. Corrections, revocations, citations, and revision history remain traceable.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>04 / Workflow Automation</h3>
-      <a href="https://github.com/user-attachments/assets/7bfd7078-7349-45ff-952d-4648cb1490dd"><img src="https://github.com/user-attachments/assets/7bfd7078-7349-45ff-952d-4648cb1490dd" alt="Workflow canvas and execution history" width="100%" /></a>
+      <a href="https://github.com/user-attachments/assets/7bfd7078-7349-45ff-952d-4648cb1490dd"></a>
       <p><strong>Let task events start the next workflow.</strong> Trigger saved workflows when a Super Task is approved, delivered, or fails. Inspect node progress, inputs, outputs, elapsed time, and errors, with controls to stop or retry.</p>
     </td>
     <td width="50%" valign="top">
       <h3>05 / AI Voice</h3>
-      <a href="https://github.com/user-attachments/assets/3318f7dc-d55e-4bc7-a0a2-c57cdc2797ee"><img src="https://github.com/user-attachments/assets/3318f7dc-d55e-4bc7-a0a2-c57cdc2797ee" alt="AI Voice scenario and mode selection" width="100%" /></a>
+      <a href="https://github.com/user-attachments/assets/3318f7dc-d55e-4bc7-a0a2-c57cdc2797ee"></a>
       <p><strong>Choose a scenario. Start a conversation.</strong> Explore open chat, interview practice, or emotional companionship, then configure Aria / Omni and voice options.</p>
     </td>
   </tr>
@@ -294,8 +308,8 @@ Keep execution progress, saved HTML reports, JSON data, and downloads in one pla
 <summary><strong>More real-time voice screens</strong></summary>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/4b0857d2-98c4-4c7c-85a3-56b15b586f68"><img src="https://github.com/user-attachments/assets/4b0857d2-98c4-4c7c-85a3-56b15b586f68" alt="AI Voice call interface" width="48%" /></a>
-  <a href="https://github.com/user-attachments/assets/f0dd407a-3f8a-4b3c-bea7-0634b975aeaa"><img src="https://github.com/user-attachments/assets/f0dd407a-3f8a-4b3c-bea7-0634b975aeaa" alt="AI Voice digital avatar interface" width="48%" /></a>
+  <a href="https://github.com/user-attachments/assets/4b0857d2-98c4-4c7c-85a3-56b15b586f68"></a>
+  <a href="https://github.com/user-attachments/assets/f0dd407a-3f8a-4b3c-bea7-0634b975aeaa"></a>
 </p>
 
 Local UI call states are not provider performance guarantees. Avatar mouth movement follows audio intensity; it is not accurate phoneme-level lip synchronization.
@@ -308,7 +322,9 @@ Local UI call states are not provider performance guarantees. Avatar mouth movem
 ## 🏗️ System Architecture
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/870ace0d-95ba-481a-a298-f82136b96a83"><img src="https://github.com/user-attachments/assets/870ace0d-95ba-481a-a298-f82136b96a83" alt="arrogance.ai system architecture diagram" width="100%" /></a>
+  <a href="https://github.com/user-attachments/assets/870ace0d-95ba-481a-a298-f82136b96a83"><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f8edf690-b5db-4280-ba47-6e09acc99966" />
+</a>
+
 </p>
 
 > The diagram describes module responsibilities, not a default configuration with every external service enabled. Optional integrations require separate setup. The original illustration contains Chinese labels; the table below provides an English overview.
