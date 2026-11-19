@@ -23,7 +23,8 @@
   <p>Bring conversations, knowledge, creative work, and team decisions into one connected AI workspace.<br />Plan the work, review the steps, and keep results alongside the context that shaped them.</p>
 
   <br />
-<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/433384a6-bc1e-46af-91b8-4ac9ce40c151" />
+<img width="1792" height="1098" alt="image" src="https://github.com/user-attachments/assets/d1441e04-6406-466f-810b-c5b36fd6b9c7" />
+
 
   <a href="#start"><img alt="Get Started" src="https://img.shields.io/badge/GET_STARTED-LOCAL_SETUP-4064D8?style=for-the-badge" /></a>
   <a href="#showcase"><img alt="Product Showcase" src="https://img.shields.io/badge/PRODUCT-SHOWCASE-1F8B9F?style=for-the-badge" /></a>
@@ -140,6 +141,7 @@ A frontend build is not a complete production deployment. Configure HTTPS, secre
 
 <a id="highlights"></a>
 ## ✨ One workspace. Connected ways to work.
+<img width="1801" height="1099" alt="image" src="https://github.com/user-attachments/assets/6004f072-b1b9-489b-8478-e3d7f0687a70" />
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/3a1f2727-56b2-4162-bd49-11fc549cfb73"></a>
