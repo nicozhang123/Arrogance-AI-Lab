@@ -199,60 +199,35 @@ A frontend build is not a complete production deployment. Configure HTTPS, secre
 | Tool | Capabilities | Requirements & current scope |
 | :-- | :-- | :-- |
 | **🎬 AI Video** | Seedance video generation from text or reference images, task status tracking, and a gallery of generated work. | Requires a Volcano Ark account with access to the selected model and a backend API key. |
-<img width="1662" height="1053" alt="屏幕截图 2026-10-15 161338" src="https://github.com/user-attachments/assets/dbf8ab79-f101-4733-af3c-b20069ff7efa" />
+<img width="1797" height="1100" alt="image" src="https://github.com/user-attachments/assets/62c578aa-00ad-421f-8737-91ec55dab8ef" />
+
 
 | **🖼️ AI Image Studio** | Qwen image generation, local editing, precise cropping, color adjustments, design presets, and multi-size ZIP exports. | Local edits do not call a model. Generation requires Qwen configuration. |
-<img width="1668" height="1052" alt="屏幕截图 2026-10-15 161723" src="https://github.com/user-attachments/assets/5575ea88-3526-42ef-aadd-3cd1b9d9a144" />
+<img width="1793" height="1097" alt="image" src="https://github.com/user-attachments/assets/2d810ea9-536d-460e-93a1-e48fbed43833" />
+
 
 | **📊 AI Data Analysis** | Linked full-dataset filters, BI charts, field profiling, quality rules, cleaned data versions, joins, follow-up questions, and CSV / PDF exports. | Statistics and processing are deterministic and local by default. AI interpretation is optional. |
-<img width="1668" height="1045" alt="屏幕截图 2026-10-15 161851" src="https://github.com/user-attachments/assets/cb791a40-9a7f-49c5-9cb6-0c90425c1a42" />
+<img width="1801" height="1099" alt="image" src="https://github.com/user-attachments/assets/a7d75c85-96ae-428b-9684-20bc1ec613b1" />
 
 
 | **🏷️ AI Data Annotation** | Single-image, batch, and ZIP imports; object-detection pre-annotation; confidence filtering; class correction; false-label removal; JSON / YOLO exports. | Uses `hustvl/yolos-tiny` by default. This is not an integrated YOLO model-training framework. |
-<img width="1670" height="1052" alt="屏幕截图 2026-10-15 161946" src="https://github.com/user-attachments/assets/b8b4c9d5-dd47-40b4-976d-32faf4249036" />
-
+<img width="1798" height="1254" alt="image" src="https://github.com/user-attachments/assets/05e87ac1-c86c-4e6c-81d0-5c38bf1b8bd1" />
 
 
 | **🎙️ AI Voice** | Open conversation, interview practice, emotional companionship, Aria / Omni experiences, voice and volume options, call content, and digital avatars. | Depends on Agora / Qwen Omni and browser microphone permission. |
-<img width="1676" height="1055" alt="屏幕截图 2026-10-15 162036" src="https://github.com/user-attachments/assets/16c77432-164a-43fe-b9ef-20911537487f" />
-<img width="1679" height="1055" alt="屏幕截图 2026-10-15 162054" src="https://github.com/user-attachments/assets/e11f6fe8-c757-4bc2-8f22-f4948dab1899" />
+<img width="1797" height="1099" alt="image" src="https://github.com/user-attachments/assets/592342ba-cd26-4fd9-8783-5dd5a8f243e6" />
+<img width="1792" height="1099" alt="image" src="https://github.com/user-attachments/assets/9f73de40-c9c0-4e7a-827f-5802a68e108a" />
+
 
 | **🕸️ AI Workflow** | A drag-and-drop canvas, connected nodes, configuration, saved workflows, a dashboard, execution history, and Super Task event triggers. | Reuses configured models, knowledge retrieval, and built-in text tools. It is not a complete Dify replacement. |
+<img width="1792" height="1102" alt="image" src="https://github.com/user-attachments/assets/d69f6e86-d236-4740-a1cc-e05d43235e86" />
+<img width="1546" height="950" alt="image" src="https://github.com/user-attachments/assets/3057d511-aed4-4693-acf5-05da0503ae7c" />
+<img width="1544" height="950" alt="image" src="https://github.com/user-attachments/assets/e7e7e6df-6475-46dc-9876-282fbaf4c09a" />
 
-### Inside the toolkit
+| **💻 AI Coding** | Jupyter-style Python notebooks with dataset-aware code generation, editable cells, inline tables and charts, and `.ipynb` import and export. | Supported Python code runs in an isolated browser environment. AI suggestions are optional and can be reviewed before applying. |
+<img width="1797" height="1250" alt="image" src="https://github.com/user-attachments/assets/4e8f4c05-6d80-4801-969f-cc89cabc74bb" />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 AI Video</h3>
-      <a href="https://github.com/user-attachments/assets/23f5e9c0-5252-42eb-b41d-604ee2a43349"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖼️ AI Image Studio</h3>
-      <a href="https://github.com/user-attachments/assets/405642e1-280c-4a4f-b9ee-d2cd9d2c8c98"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 AI Data Analysis</h3>
-      <a href="https://github.com/user-attachments/assets/d8895b50-f0a9-4b39-8ba4-e2d90933d54b"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏷️ AI Data Annotation</h3>
-      <a href="https://github.com/user-attachments/assets/9480a85c-bc46-4981-b8ba-a0c11f7ae65f"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ AI Voice</h3>
-      <a href="https://github.com/user-attachments/assets/5927ccb3-2598-4040-882e-d5f417d3505e"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🕸️ AI Workflow</h3>
-      <a href="https://github.com/user-attachments/assets/4b3f10ae-6131-40a7-b5d3-b17e8dcfef60"></a>
-    </td>
-  </tr>
-</table>
+
 
 <details>
 <summary><strong>Interface & internationalization</strong></summary>
