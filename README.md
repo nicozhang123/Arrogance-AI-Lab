@@ -23,7 +23,8 @@
   <p>Bring conversations, knowledge, creative work, and team decisions into one connected AI workspace.<br />Plan the work, review the steps, and keep results alongside the context that shaped them.</p>
 
   <br />
-<img width="1792" height="1098" alt="image" src="https://github.com/user-attachments/assets/d1441e04-6406-466f-810b-c5b36fd6b9c7" />
+<img width="1794" height="1096" alt="image" src="https://github.com/user-attachments/assets/a9ace915-4c5e-434f-a9f2-905eaa2fcc23" />
+
 
 
   <a href="#start"><img alt="Get Started" src="https://img.shields.io/badge/GET_STARTED-LOCAL_SETUP-4064D8?style=for-the-badge" /></a>
